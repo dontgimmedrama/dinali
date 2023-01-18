@@ -10,7 +10,7 @@ name: Dinali Jay
 title: Project Manager
 email: dinalijay@gmail.com
 # email_title: Email (Email title override)
-phone: +61 44 99 66 446
+# phone: +61 44 99 66 446
 # phone_title: Phone (Phone title override)
 # website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
@@ -55,9 +55,9 @@ about_content: | # this will include new lines to allow paragraphs
   I am a highly skilled and results-driven Project Manager with 5+ years of experience in leading and delivering successful IT projects. I have a strong background in gathering and analyzing data, developing technical solutions, and communicating with stakeholders. I am proficient in a variety of technical tools and technologies, including SQL, Python, and Tableau. I am an experienced problem-solver with a proven track record of delivering projects on time and within budget. I have a proven track record of driving project development from concept to launch and exceeding goals for success. I have a strong technical background in software development and agile methodologies, and am well-versed in project management best practices.
 
 
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+#  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+#  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
 
 content:
   # - title: Projects # Title for the section
@@ -88,12 +88,13 @@ content:
         sub_title: Technology Risk Manager
         caption: Nov 2016 - Dec 2020
         link: pwc.com.au
-        quote: 
-          Consulting firm
+        quote: Consulting firm 
+          
         description: | # this will include new lines to allow paragraphs
           Description of role
-          Description of role
-          Description of role
+            Description of role
+            Description of role
+          |Description of role
   - title: Education
     layout: list
     content:
