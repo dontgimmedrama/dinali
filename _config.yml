@@ -91,23 +91,19 @@ content:
         quote: Consulting firm 
           
         description: | # this will include new lines to allow paragraphs
-          • Successfully coordinated and managed technology risk and cyber security projects for Commonwealth Bank with over $20m  budget ensuring compliance with standards and regulations.
-
-          • Collaborated closely with cross-functional teams to identify and mitigate potential security risks, implementing effective risk management strategies for
-
-          • Conducted regular risk assessments and monitored security systems to identify and address vulnerabilities for NSW Electoral Commission iVote Audit Reporting with $10.5m budget.
-
-• Developed and maintained project plans, timelines, and budgets for technology risk and cyber security initiatives.
-
-• Built and nurtured relationships with stakeholders, including key partners and vendors, to drive project success and ensure alignment on goals and priorities.
-
-• Acted as a liaison between the security team and other departments, ensuring clear communication and alignment on security protocols and procedures.
-
-• Led regular training and education sessions for employees to promote security awareness and best practices.
-
-• Documented and analyzed security incidents to identify areas for improvement and support incident response efforts.
-
-• Monitored and reported on compliance with industry standards and regulations, and implemented necessary changes to maintain compliance.
+          Description of role
+            Description of role
+            Description of role
+          |Description of role
+                    • Successfully coordinated and managed technology risk and cyber security projects for Commonwealth Bank with over $20m  budget ensuring compliance with standards and regulations.
+            • Collaborated closely with cross-functional teams to identify and mitigate potential security risks, implementing effective risk management strategies for
+            • Conducted regular risk assessments and monitored security systems to identify and address vulnerabilities for NSW Electoral Commission iVote Audit Reporting with $10.5m budget.
+            • Developed and maintained project plans, timelines, and budgets for technology risk and cyber security initiatives.
+            • Built and nurtured relationships with stakeholders, including key partners and vendors, to drive project success and ensure alignment on goals and priorities.
+            • Acted as a liaison between the security team and other departments, ensuring clear communication and alignment on security protocols and procedures.
+            • Led regular training and education sessions for employees to promote security awareness and best practices.
+            • Documented and analyzed security incidents to identify areas for improvement and support incident response efforts.
+            • Monitored and reported on compliance with industry standards and regulations, and implemented necessary changes to maintain compliance.
   - title: Education
     layout: list
     content:
