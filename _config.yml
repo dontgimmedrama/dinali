@@ -52,13 +52,19 @@ linkedin_username: dinalijay
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+I am a highly skilled and results-driven Project Manager with 5+ years of experience in leading and delivering successful IT projects. 
+I have a strong background in gathering and analyzing data, developing technical solutions, and communicating with stakeholders. 
+I am proficient in a variety of technical tools and technologies, including SQL, Python, and Tableau. 
+I am an experienced problem-solver with a proven track record of delivering projects on time and within budget. 
+I have a proven track record of driving project development from concept to launch and exceeding goals for success. 
+I have a strong technical background in software development and agile methodologies, and am well-versed in project management best practices.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+
+
+
+# Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+
+# You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
 
 content:
   # - title: Projects # Title for the section
@@ -89,7 +95,7 @@ content:
         sub_title: Technology Risk Manager
         caption: Nov 2016 - Dec 2020
         link: pwc.com.au
-        quote: >
+        quote: 
           Consulting firm
         description: | # this will include new lines to allow paragraphs
           Description of role
