@@ -55,14 +55,16 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Cartesi
+        sub_title: Technical Community Development Manager
+        caption: Oct 2021 - Dec 2022
+        link: cartesi.io
         quote: >
-          Short description of the company (optional)
+          Blockchain technology
         description: | # this will include new lines to allow paragraphs
           Description of role
+          Description of role 1
+          | Description of role 2
   - title: Education
     layout: list
     content:
