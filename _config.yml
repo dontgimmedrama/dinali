@@ -202,6 +202,27 @@ content:
 #          Short institution or course description (optional)
 #        description: | # this will include new lines to allow paragraphs
 #          Description of qualification
+  - title: Projects # Title for the section
+    layout: list
+    content:
+      - layout: top-middle
+        border: weak
+        title: Like a Mermaid Hair
+        link: likeamermaidhair.com
+        caption: 2019 - Now
+        # additional_links:
+        #   - title: sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: https://github.com/sproogen/modern-resume-theme
+        quote: >
+          eCommerce brand
+        description: |
+          Meet Like a Marmeid Hair, a passion project turned online store. Developed in my free time over the last 4 years, this package is the result of my personal interest and dedication to bring the most effective solution for hair growth. 
+          What I'm the most proud of is the amazing community of supporters that I have built. The community is a valuable resource for support and inspiration, and members are encouraged to share tips, advice, and their own personal journeys. The community has been an important part of my project, as it not only helps others, but also helps me to learn and improve my products.
+          Although, this project was never meant to be a financial gain, it has been a fulfilling experience to be able to help others with their hair growth journey.
+
+
+
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
