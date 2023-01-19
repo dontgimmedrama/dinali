@@ -88,6 +88,8 @@ content:
         sub_title: Technology Risk / Cyber Security Project Coordinator
         caption: Sydney, AU | Jan 2019 - Aug 2021
         link: pwc.com.au
+        quote: >
+          Audit and Assurance, Consulting Firm
         description: | # this will include new lines to allow paragraphs
           <br>• Successfully coordinated and managed technology risk and cyber security projects for Commonwealth Bank with over $20m  budget ensuring compliance with standards and regulations.
           <br>• Collaborated closely with cross-functional teams to identify and mitigate potential security risks, implementing effective risk management strategies for
@@ -117,11 +119,13 @@ content:
           <br>• Development and analysis of the cyber risk strategy, framework and process related to information technology, operational technology and/orconsumer technology.
           <br>• IT Audit Support (ITGC) - Provide support for the examination of the management controls within an Information technology (IT) infrastructure.
 
-      - layout: right
+      - layout: left
         title: Optus
         sub_title: Junior Project Manager 
         link: optus.com.au
         caption: Sydney, AU | Aug 2016 - Jun 2017
+        quote: >
+          Telecommunications Company
         description: |
           <br>• Assisted in defining and clarifying project scope and objectives, ensuring technical feasibility and alignment with company strategy
           <br>• Developed and maintained detailed project plans to track progress, including all tasks, milestones and deadlines
@@ -131,6 +135,22 @@ content:
           <br>• Led the project's change control process and ensured all changes are tracked, analyzed, and approved.
           <br>• Proactively identified and managed project risks and issues, and developed action plans to mitigate and resolve them
           <br>• Assisted in the development of project budgets and financial forecasting
+      - layout: left
+        border: weak
+        sub_title: Technical Support Analyst 
+        caption: Sydney, AU | Feb 2016 - Aug 2016
+        description: |
+          <br>• Documenting and tracking all received incidents in incident management system
+          <br>• Collecting and updating data to assist with customer issues and concerns
+          <br>• Assisted the manager with software installations
+          <br>• Providing inter-departmental collaboration by escalating unresolved issues to appropriate support functions.
+          <br>• Identifying priority calls and highlighting potential problems, ensuring that targets are met in line with tight key performance indicators.
+          <br>• Using ServiceNow, NMC tools, IFMS, Helix, Boris, Map Blaster, GSMIS call tracking systems to log, track and manage Incidents.
+          <br>• Enhanced communication skills by liaising with colleagues and different levels of management.
+          <br>• Worked at the incident management team of 25 by displaying collaboration and support
+          <br>• Training new employees on operational matters and company culture
+
+
   - title: Education
     layout: list
     content:
