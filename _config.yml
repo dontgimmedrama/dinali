@@ -202,10 +202,16 @@ content:
 #          Short institution or course description (optional)
 #        description: | # this will include new lines to allow paragraphs
 #          Description of qualification
+  - title: Skills
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      With a strong background in Scrum/Kanban and Agile Development, I am experienced in managing and leading projects through the entire software development life cycle (SDLC). I excel in creating process flows and modeling to streamline operations and improve efficiency. My analytical skills in data analysis and cost-benefit analysis, coupled with my ability in strategic planning, allow me to make informed decisions that drive project success. I am proficient in tools such as Confluence, RPA, Tableau, and SQL, which I use to collect and analyze data, and make data-driven decisions.
+
+      I am a skilled communicator and have a talent for building relationships, this has allowed me to work effectively with team members, stakeholders and clients. I am proactive in my approach to work and have a great sense of time management. I am also well-versed in Jira, and use it to manage tasks and track progress. I am confident in my ability to lead projects from concept to launch and exceed success goals, and I am always looking for opportunities to improve and grow my skills.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+      Since 2021, I've been roaming between Europe, Asia, and Australia, using to the fullest ability to work remotely. When I'm not working, I love to take time for myself by practising meditation, yoga and reading books. I am also a big foodie, always on the lookout for new and exciting culinary experiences. Whether it's trying a new recipe, or discovering a hidden gem of a restaurant, food is always on my mind. I believe that a healthy balance of work and play is essential for a fulfilling life, and I strive to incorporate this into my daily routine.
 
       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
