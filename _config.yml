@@ -83,6 +83,23 @@ content:
   - title: Experience
     layout: list
     content:
+      - layout: left
+        title: Cartesi
+        sub_title: Technical Community Development Manager 
+        caption: Remote | Jan 2019 - Aug 2021
+        link: cartesi.io
+        quote: >
+          Blockchain Technology
+        description: | # this will include new lines to allow paragraphs
+          <br>• Successfully led the launch of multiple gaming decentralized applications, driving product development and market expansion resulting in community growth by over 25% within 3 weeks.
+          <br>• Collaborated closely with cross-functional teams to drive product development, meeting project milestones and delivering exceptional customer experiences.
+          <br>• Conducted market research, analyzed customer data, and used insights to inform strategic product decisions.
+          <br>• Expertly managed budgets, resources, and project timelines for the product development team.
+          <br>•  Built and nurtured relationships with stakeholders, technical communities, and other key partners to drive community growth and engagement.
+          <br>• Proactively identified and addressed community needs, fostering a strong and active developer community that grew by 40%.
+          <br>• Acted as a liaison between the core development team and the wider community, ensuring clear communication and alignment on project goals and priorities.
+          <br>• Led a community of 20,000, fostering meaningful impact and contributions to the ecosystem.
+          <br>• Documented and analyzed community feedback to identify areas for improvement and support community members with onboarding and education.
       - layout: right
         title: PwC Australia
         sub_title: Technology Risk / Cyber Security Project Coordinator
