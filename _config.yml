@@ -1,5 +1,5 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+# repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Dinali Jay
-title: Project Manager
+title: Product Manager
 email: dinalijay@gmail.com
 # email_title: Email (Email title override)
 # phone: +61 44 99 66 446
@@ -52,9 +52,7 @@ linkedin_username: dinalijay
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.JPG
 about_content: | # this will include new lines to allow paragraphs
-  I am a highly skilled and results-driven Project Manager with 5+ years of experience in leading and delivering successful IT projects. I have a strong background in gathering and analyzing data, developing technical solutions, and communicating with stakeholders. I am proficient in a variety of technical tools and technologies, including SQL, Python, and Tableau. I am an experienced problem-solver with a proven track record of delivering projects on time and within budget. I have a proven track record of driving project development from concept to launch and exceeding goals for success. I have a strong technical background in software development and agile methodologies, and am well-versed in project management best practices.
-
-
+Experienced Product Manager with a proven track record of successfully managing and launching digital products in the IT industry. With 5 years of experience in Product Management, I have a strong understanding of the product development lifecycle and am skilled in market research, product strategy, and team management. I have a proven ability to drive product development and launch, resulting in increased revenue and customer satisfaction. 
 #  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
 #  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
@@ -139,7 +137,7 @@ content:
 
       - layout: left
         title: Optus
-        sub_title: Junior Project Manager 
+        sub_title: Digital Product Manager Assistant
         link: optus.com.au
         caption: Sydney, AU | Aug 2016 - Jun 2017
         quote: >
@@ -169,19 +167,23 @@ content:
           <br>• Training new employees on operational matters and company culture
       - layout: right
         title: Explainze
-        sub_title: Project Manager
+        sub_title: Product Manager
         caption: Sydney, AU | Dec 2014 - Jun 2016
         link: explainze.com
         quote: >
-          Video Production
+          Video Production & Marketing Agency
         description: | # this will include new lines to allow paragraphs
-          <br>• Project planning: Developing detailed project plans and schedules, including scope, budget, resources, and timeline
-          <br>• Risk management: Identifying and managing risks and issues that may impact the project
-          <br>• Stakeholder communication: Communicating project progress and issues to stakeholders, including team members, clients, and senior management
-          <br>• Resource management: Allocating and managing resources, including people and budgets, to ensure the project stays on track
-          <br>• Quality assurance: Ensuring that the project is delivered to the required quality standards and meets business objectives
-          <br>• Team leadership: Leading and motivating project teams to deliver high-quality results
-          <br>• Budget management: Managing project budgets and financial resources effectively
+          <br>•	Developed and managed the product roadmap for the animated video department, resulting in a 20% increase in sales within the first 6 months
+          <br>•	Conducted market research to identify industry trends and customer needs, which led to the development of a new product line that generated just over $260,000 in revenue within the first year (57% of the total company's revenue at the time)
+          <br>•	Collaborated with cross-functional teams, including design, development, and sales, to bring products to market, resulting in a 100% customer satisfaction rate
+          <br>•	Defined and tracked key performance indicators for products using tools like Google Analytics, Mixpanel, Tableau, Amplitude, resulting in a 33% increase in efficiency and productivity
+          <br>•	Communicated with clients and stakeholders to gather feedback and requirements, resulting in the successful launch of a new product feature that was highly requested by clients
+          <br>•	Managed the product budget and resources, resulting in a 25% reduction in cost while maintaining the same level of quality and output
+          <br>•	Analyzed and reported on product performance and made data-driven decisions, resulting in a 20% increase in ROI
+          <br>•	Developed and maintained a product backlog and prioritized features, resulting in the successful launch of a new product line within 6 months
+          <br>•	Worked closely with the creative team to ensure the final product met the client's needs and expectations, resulting in a 95% repeat business rate  
+          <br>•	Led product demonstrations and presentations to clients and internal teams, resulting in the successful acquisition of 3 new major clients.
+          
 
   - title: Education
     layout: list
