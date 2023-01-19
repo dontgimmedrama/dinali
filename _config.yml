@@ -86,8 +86,8 @@ content:
       - layout: right
         title: PwC Australia
         sub_title: Technology Risk / Cyber Security Project Coordinator
-        caption: Jan 2019 - Aug 2021
-        link: Sydney, AU | pwc.com.au
+        caption: Sydney, AU | Jan 2019 - Aug 2021
+        link: pwc.com.au
         description: | # this will include new lines to allow paragraphs
           <br>• Successfully coordinated and managed technology risk and cyber security projects for Commonwealth Bank with over $20m  budget ensuring compliance with standards and regulations.
           <br>• Collaborated closely with cross-functional teams to identify and mitigate potential security risks, implementing effective risk management strategies for
@@ -101,10 +101,8 @@ content:
 
       - layout: right
         border: weak
-        title: PwC Australia
         sub_title: Technology Risk/Cyber Security Consultant
-        link: Sydney, AU | pwc.com.au
-        caption: Jun 2017 - Aug 2021
+        caption: Sydney, AU | Jun 2017 - Aug 2021
         description: |
           <br>• Facilitating client meetings to gather business requirements, while translating and simplifying requirements.
           <br>• Working with business users/stakeholders to assist with the business case, document business requirements for developing reports/processes.
@@ -122,10 +120,17 @@ content:
       - layout: right
         title: Optus
         sub_title: Junior Project Manager 
-        link: Sydney, AU | optus.com.au
-        caption: Aug 2016 - Jun 2017
+        link: optus.com.au
+        caption: Sydney, AU | Aug 2016 - Jun 2017
         description: |
-          <br>• 
+          <br>• Assisted in defining and clarifying project scope and objectives, ensuring technical feasibility and alignment with company strategy
+          <br>• Developed and maintained detailed project plans to track progress, including all tasks, milestones and deadlines
+          <br>• Coordinated internal and external resources, including allocating tasks, managing and monitoring project progress, making adjustments as necessary to ensure successful completion
+          <br>• Established and maintained relationships with project stakeholders, including clients, vendors and internal teams
+          <br>• Communicated project status, issues, and successes to stakeholders, including project team, management, and clients
+          <br>• Led the project's change control process and ensured all changes are tracked, analyzed, and approved.
+          <br>• Proactively identified and managed project risks and issues, and developed action plans to mitigate and resolve them
+          <br>• Assisted in the development of project budgets and financial forecasting
   - title: Education
     layout: list
     content:
