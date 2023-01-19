@@ -206,14 +206,13 @@ content:
     layout: list
     content:
       - layout: top-middle
-        border: weak
         title: Like a Mermaid Hair
         link: likeamermaidhair.com
         caption: 2019 - Now
-        # additional_links:
-        #   - title: sproogen/modern-resume-theme
-        #     icon: fab fa-github
-        #     url: https://github.com/sproogen/modern-resume-theme
+        additional_links:
+          - title: Our Instagram Community
+            icon: fab fa-instagram
+            url: growhair_likeamermaid
         quote: >
           eCommerce brand
         description: |
