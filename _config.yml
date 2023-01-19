@@ -84,6 +84,7 @@ content:
     layout: list
     content:
       - layout: left
+        border: weak
         title: Cartesi
         sub_title: Technical Community Development Manager 
         caption: Remote | Jan 2019 - Aug 2021
@@ -166,7 +167,21 @@ content:
           <br>• Enhanced communication skills by liaising with colleagues and different levels of management.
           <br>• Worked at the incident management team of 25 by displaying collaboration and support
           <br>• Training new employees on operational matters and company culture
-
+      - layout: right
+        title: Visual Domain
+        sub_title: Technology Risk / Cyber Security Project Coordinator
+        caption: Sydney, AU | Dec 2014 - Jun 2016
+        link: visualdomain.com.au
+        quote: >
+          Animated Videos
+        description: | # this will include new lines to allow paragraphs
+          <br>• Project planning: Developing detailed project plans and schedules, including scope, budget, resources, and timeline
+          <br>• Risk management: Identifying and managing risks and issues that may impact the project
+          <br>• Stakeholder communication: Communicating project progress and issues to stakeholders, including team members, clients, and senior management
+          <br>• Resource management: Allocating and managing resources, including people and budgets, to ensure the project stays on track
+          <br>• Quality assurance: Ensuring that the project is delivered to the required quality standards and meets business objectives
+          <br>• Team leadership: Leading and motivating project teams to deliver high-quality results
+          <br>• Budget management: Managing project budgets and financial resources effectively
 
   - title: Education
     layout: list
