@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Dinali Jay
-title: Product Manager 
+title: Product Manager
 email: dinalijay@gmail.com
 # email_title: Email (Email title override)
 # phone: +61 44 99 66 446
@@ -107,8 +107,8 @@ content:
         quote: >
           Audit and Assurance, Consulting Firm
         description: | # this will include new lines to allow paragraphs
-          <br>• Successfully coordinated and managed technology risk and cyber security projects for Commonwealth Bank with over $50m  budget ensuring compliance with standards and regulations.
-          <br>• Collaborated closely with cross-functional teams to identify and mitigate potential security risks, implementing effective risk management strategies for
+          <br>• Successfully coordinated and managed technology risk and cyber security projects for Commonwealth Bank with over $50m  budget ensuring compliance with banking industry standards and regulations.
+          <br>• Collaborated closely with cross-functional teams to identify and mitigate potential security risks, implementing effective risk management strategies for.
           <br>• Conducted regular risk assessments and monitored security systems to identify and address vulnerabilities for NSW Electoral Commission iVote Audit Reporting with $10.5m budget.
           <br>• Developed and maintained project plans, timelines, and budgets for technology risk and cyber security initiatives.
           <br>• Built and nurtured relationships with stakeholders, including key partners and vendors, to drive project success and ensure alignment on goals and priorities.
@@ -124,10 +124,10 @@ content:
         description: |
           <br>• Facilitating client meetings to gather business requirements, while translating and simplifying requirements.
           <br>• Working with business users/stakeholders to assist with the business case, document business requirements for developing reports/processes.
-          <br>• Analyzed data using SQL and Python to identify trends and patterns
-          <br>• Created visualizations using Tableau to communicate findings to stakeholders
-          <br>• Collaborated with technical and non-technical team members to define project requirements and develop technical solutions
-          <br>• Troubleshoot and resolved issues that arose during the course of a project
+          <br>• Analyzed data using SQL and Python to identify trends and patterns.
+          <br>• Created visualizations using Tableau to communicate findings to stakeholders.
+          <br>• Collaborated with technical and non-technical team members to define project requirements and develop technical solutions.
+          <br>• Troubleshoot and resolved issues that arose during the course of a project.
           <br>• Identifying and evaluating inefficiencies and recommending optimal business practices, and system functionality and behavior.
           <br>• Using data and process modeling techniques to create clear system specifications for the design and development of system software.
           <br>• Preparation of technical reports and presentations.
@@ -144,26 +144,26 @@ content:
           Telecommunications Company
         description: |
           <br>• Successfully assisted in developing and implementation of product strategy for the largest telecommunications company in Australia, resulting in a 8% increase in customer acquisition year to year.
-          <br>• Conducted market research and gathered customer feedback to inform product decisions, leading to the successful launch of a new product that was part of company revenue increase by 6%
-          <br>• Collaborated with cross-functional teams, including designers, engineers, and QA, to drive product development and launch a new product that received positive feedback from customers
-          <br>• Managed the product budget and resources effectively, tracking expenses and forecasting costs, which resulted in a 10% reduction in overall costs
-          <br>• Analyzed data to track product performance and make data-driven decisions
-          <br>• Communicated effectively with stakeholders, including customers, internal teams, and senior management, resulting in a 12% increase in customer satisfaction year to year
+          <br>• Conducted market research and gathered customer feedback to inform product decisions, leading to the successful launch of a new product that was part of company revenue increase by 6%.
+          <br>• Collaborated with cross-functional teams, including designers, engineers, and QA, to drive product development and launch a new product that received positive feedback from customers.
+          <br>• Managed the product budget and resources effectively, tracking expenses and forecasting costs, which resulted in a 10% reduction in overall costs.
+          <br>• Analyzed data to track product performance and make data-driven decisions.
+          <br>• Communicated effectively with stakeholders, including customers, internal teams, and senior management, resulting in a 12% increase in customer satisfaction year to year.
 
       - layout: left
         border: weak
         sub_title: Technical Support Analyst 
         caption: Sydney, AU | Feb 2016 - Aug 2016
         description: |
-          <br>• Documenting and tracking all received incidents in incident management system
-          <br>• Collecting and updating data to assist with customer issues and concerns
-          <br>• Assisted the manager with software installations
+          <br>• Documenting and tracking all received incidents in incident management system.
+          <br>• Collecting and updating data to assist with customer issues and concerns.
+          <br>• Assisted the manager with software installations.
           <br>• Providing inter-departmental collaboration by escalating unresolved issues to appropriate support functions.
           <br>• Identifying priority calls and highlighting potential problems, ensuring that targets are met in line with tight key performance indicators.
           <br>• Using ServiceNow, NMC tools, IFMS, Helix, Boris, Map Blaster, GSMIS call tracking systems to log, track and manage Incidents.
           <br>• Enhanced communication skills by liaising with colleagues and different levels of management.
-          <br>• Worked at the incident management team of 25 by displaying collaboration and support
-          <br>• Training new employees on operational matters and company culture
+          <br>• Worked at the incident management team of 25 by displaying collaboration and support.
+          <br>• Training new employees on operational matters and company culture.
       - layout: right
         title: Explainze
         sub_title: Product Manager
@@ -172,15 +172,15 @@ content:
         quote: >
           Video Production & Marketing Agency
         description: | # this will include new lines to allow paragraphs
-          <br>•	Developed and managed the product roadmap for the animated video department, resulting in a 20% increase in sales within the first 6 months
-          <br>•	Conducted market research to identify industry trends and customer needs, which led to the development of a new product line that generated just over $260,000 in revenue within the first year (57% of the total company's revenue at the time)
-          <br>•	Collaborated with cross-functional teams, including design, development, and sales, to bring products to market, resulting in a 100% customer satisfaction rate
-          <br>•	Defined and tracked key performance indicators for products using tools like Google Analytics, Mixpanel, Tableau, Amplitude, resulting in a 33% increase in efficiency and productivity
-          <br>•	Communicated with clients and stakeholders to gather feedback and requirements, resulting in the successful launch of a new product feature that was highly requested by clients
-          <br>•	Managed the product budget and resources, resulting in a 25% reduction in cost while maintaining the same level of quality and output
-          <br>•	Analyzed and reported on product performance and made data-driven decisions, resulting in a 20% increase in ROI
-          <br>•	Developed and maintained a product backlog and prioritized features, resulting in the successful launch of a new product line within 6 months
-          <br>•	Worked closely with the creative team to ensure the final product met the client's needs and expectations, resulting in a 95% repeat business rate  
+          <br>•	Developed and managed the product roadmap for the animated video department, resulting in a 20% increase in sales within the first 6 months.
+          <br>•	Conducted market research to identify industry trends and customer needs, which led to the development of a new product line that generated just over $260,000 in revenue within the first year (57% of the total company's revenue at the time).
+          <br>•	Collaborated with cross-functional teams, including design, development, and sales, to bring products to market, resulting in a 100% customer satisfaction rate.
+          <br>•	Defined and tracked key performance indicators for products using tools like Google Analytics, Mixpanel, Tableau, Amplitude, resulting in a 33% increase in efficiency and productivity.
+          <br>•	Communicated with clients and stakeholders to gather feedback and requirements, resulting in the successful launch of a new product feature that was highly requested by clients.
+          <br>•	Managed the product budget and resources, resulting in a 25% reduction in cost while maintaining the same level of quality and output.
+          <br>•	Analyzed and reported on product performance and made data-driven decisions, resulting in a 20% increase in ROI.
+          <br>•	Developed and maintained a product backlog and prioritized features, resulting in the successful launch of a new product line within 6 months.
+          <br>•	Worked closely with the creative team to ensure the final product met the client's needs and expectations, resulting in a 95% repeat business rate.  
           <br>•	Led product demonstrations and presentations to clients and internal teams, resulting in the successful acquisition of 3 new major clients.
   - title: Education
     layout: list
